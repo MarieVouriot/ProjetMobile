@@ -1,0 +1,19 @@
+{
+  "cwd": "D:\\Licence STS\\Web et Mobile\\ProjetMobile",
+  "type": [
+    "pwa"
+  ],
+  "name": "DemoSTS",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
